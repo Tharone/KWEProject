@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "speech_analyzer", "speech_analyzer.pyproj", "{1F570C75-95CA-43A8-BB6A-5F0CD5A7FCC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F570C75-95CA-43A8-BB6A-5F0CD5A7FCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F570C75-95CA-43A8-BB6A-5F0CD5A7FCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50E91A5C-E04F-4C2A-B409-8DFD0C1A6701}
+	EndGlobalSection
+EndGlobal
