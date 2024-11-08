@@ -59,7 +59,7 @@ def freq_analyzer(text):
     for w, f in words.items():
         freq_word.append((f, w))
         text_len += 1
-    freq_word.sort() #Sort the list in ascending order of frequencies
+    freq_word.sort() #Sort the list in ascending order of freq
 
     print(f'\nYour text contains {text_len} distinct words.')
     return freq_word
@@ -70,7 +70,7 @@ def most_repeated(wordlist, num = 4):
     Input (list) wordlist of tuples (freq, word);
     (int) num defaulted to 4.
 
-    Return a list of tuples (freq, word) of top num most repeated words.
+    Returns a list of tuples (freq, word) of top num most repeated words.
     If # distinct freqs < num, return at max len(wordlist) words.
     '''
 
