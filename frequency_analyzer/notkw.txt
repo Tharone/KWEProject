@@ -43,6 +43,8 @@ hả
 chứ
 thay
 ơi
+được
+đấy
 à
 này
 hỡi
@@ -858,6 +860,7 @@ tua tủa
 túc tắc
 tục tằn
 tục tĩu
+tác giả
 túi bụi
 tùm hum
 tủm tỉm
@@ -928,5 +931,7 @@ xối xả
 xôn xao
 xơ xác
 xuề xòa
+được thể
 xun xoe
 xuýt xoát
+xuất bản
