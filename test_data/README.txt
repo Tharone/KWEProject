@@ -6,4 +6,4 @@ To identify which file maps to which picture's OCR output, kindly refer to the n
 - "T24.txt" -> OCR output of "Cover5"
 - "T25.txt" -> OCR output of "Cover7"
 - "T26.txt" -> OCR output of "Cover9"
-- "T27.txt" -> OCR output of "Cover19"
+- "T27.txt" -> OCR output of "Cover20"
