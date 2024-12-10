@@ -1,5 +1,6 @@
 # KWEProject
-Main developer: Long Vinh Thien
+Main developer: Long Vinh Thien.
+
 This is the Keyword Extractor (KWE) of our group. It is delevoped in Python and is exclusively modified to work with the Vietnamese language.
 
 # How it works
