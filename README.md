@@ -13,4 +13,4 @@ After the KWE has found the most repeated words, it starts to link those words t
 
 All words marked as valid are considered as potential keywords and are displayed in the output.
 
-For a visual description, refer to the drawn diagram in this repository.
+For a visual description, refer to the drawn diagram 'HowItWorks.png'.
