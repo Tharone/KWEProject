@@ -1,0 +1,37 @@
+7. COENZYM 62 animationlupulesht 
+Trong nhiều phản ứng enzym , điện tử hay nhóm nguyên tử được chuyển từ cơ chất 
+này sang một cơ chất khác . Loại phản ứng này cũng luôn liên quan đến các thành phần 
+bổ sung , giúp thu nhận các nhóm chức tạm thời . Phân tử này được gọi là coenzym . Với 
+việc chúng không có khả năng xúc tác , gọi tên là cosubstrat sẽ thích hợp hơn , tuy nhiên 
+tên gọi này lại ít được sử dụng . Khác với các cơ chất của một enzym nhất định thường 
+đặc hiệu , coenzym có thể liên kết với nhiều enzym khác nhau . Coenzym được phân chia 
+thành 2 nhóm : nhóm chuyển đổi nhóm chức và nhóm oxy hóa khử . 
+Tùy thuộc vào loại tương tác với enzym , mà ta phân ra coenzym hòa tan và coenzym 
+có nhóm giả . Coenzym hòa tan ( 1 ) liên kết chặt chẽ với enzym như cơ chất trong quá trình 
+phản ứng , trải qua một sự thay đổi hóa học và sau đó được tái tạo trở lại . Hình thức ban đầu 
+của coenzym được tái tạo bởi một phản ứng khác độc lập với phản ứng enzym xúc tác . Mặt 
+khác , coenzym nhóm giả ( 2 ) , liên kết chặt chẽ với enzym và vẫn liên kết với nó trong quá 
+trình phản ứng , phần cơ chất liên kết với các coenzym sau đó được chuyển đến một cơ chất 
+khác hoặc coenzym khác của enzym cùng loại ( Hình 7 li ) . 
+7.1 . Coenzym oxy hóa khử ( Hình 7.11 ) mong 
+Tất cả oxidoreductase đều cần có coenzym . Các coenzym oxy hóa khử quan trọng được 
+trình bày ở phần sau , chúng có thể hoạt động ở dạng hòa tan ( S ) hoặc dạng nhóm giả ( P ) . 
+Các nhân pyridin NAD và NADP + ( 1 ) phân bố rộng rãi như coenzym của 
+dehydrogenase . Chúng vận chuyển ion hydro ( 2e và 1H ) và luôn luôn hoạt động ở 
+dạng hòa tan . NAD * sinh ra từ chu trình chuyển hóa của chuỗi hô hấp tế bào và do đó 
+góp phần vào sự chuyển hóa năng lượng . Ngược lại , NADP + là chất khử quan trọng 
+nhất tham gia vào quá trình sinh tổng hợp . 
+Flavin coenzym FMN và FAD ( 2 , 3 ) chứa flavin isoalloxazin , là một nhóm oxy hóa 
+khử . Đây là nhóm chất có 3 vòng , hệ thống vòng chứa N có thể nhận tối đa hai electron 
+và hai proton trong quá trình phản ứng . FMN mang ribitol ( đường rượu được 
+phosphoryl hóa tại vòng flavin ) . FAD tạo thành khi FMN liên kết với AMP . Hai 
+coenzym có chức năng tương tự . Chúng được tìm thấy trong dehydrogenase , oxidase , 
+monooxygenase . Khác với các nhân pyridin , flavin phản ứng làm sinh ra các hoạt 
+và 
+chất trung gian . Để phòng thiệt hại cho các thành phần tế bào , các flavin luôn luôn liền 
+kết như các nhóm giả trong protein enzym . 
+Ubiquinon ( coenzym Q , 4 ) được sinh ra trong chuỗi hô hấp tế bào . Trong quá trình 
+phản ứng quinon được chuyển đổi thành hydroquinon ( ubiquinol ) . Các chuỗi bên 
+isoprenoid của ubiquinon có thể có độ dài khác nhau . Chúng giúp cho ubiquinon bám 
+được vào trong màng , nơi nó có thể di chuyển tự do . Coenzym tương tự cũng được tìm 
+171

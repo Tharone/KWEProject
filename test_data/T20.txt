@@ -1,0 +1,39 @@
+Trong Hình 7.12 , acid lipoic ( 6 ) , cầu nối disulfid nội phân tử hoạt động như một cấu 
+trúc oxy hóa khử . Kết quả của quá trình khử , nó được chuyển đổi thành dithiol tương ứng . 
+Là một nhóm giả , acid lipoic thường được liên kết cộng hóa trị với lysin ( R ) của enzym , 
+gọi là lipoamid . Lipoamid chủ yếu là tham gia vào quá trình oxy hóa khử carboxyl của 
+acid . Coenzym glutathion cũng có một cấu trúc disulfid / dithiol tương tự như thế . 
+Cấu trúc liên kết sắt - lưu huỳnh ( 7 ) hoạt động như nhóm giả trong nhóm 
+oxidoreductase , chúng cũng được tìm thấy trong lyase , aconitase và các enzym khác . 
+Cấu trúc liên kết sắt - lưu huỳnh bao gồm từ 2–4 ion sắt được liên kết với cystein của 
+protein ( -SR ) và với một ion sulfid hữu cơ ( S ) . Cấu trúc này chỉ ổn định duy nhất bên 
+trong các protein . Tùy thuộc vào số lượng của các ion sắt và sulfua , mà ta phân ra 
+[ FeS2 ] , [ Fe3S4 ] , và [ Fe4S4 ] . Những cấu trúc này tham gia rất nhiều vào chuỗi hô hấp tế 
+bào và được tìm thấy trong tất cả các khu phức hợp , ngoại trừ phức hợp IV . 
+Coenzym hem ( 8 ) với các chức năng oxy hóa khử trong chuỗi hô hấp tế bào , trong 
+quang hợp và trong monooxygenase và peroxidase . Hem có chứa protein với các chức 
+năng oxy hóa khử còn được gọi là cytochrom . Cytochrom khác với hemoglobin và 
+myoglobin , phân tử sắt thay đổi hóa trị của nó ( thường là giữa +2 và +3 ) . Có nhiều lớp 
+của hem ( a , b , và c ) , trong đó có các loại nhóm thế khác nhau : R1 đến R3 . Hemoglobin , 
+myoglobin , và các enzym hem chứa hem b . Hem a có trong cytochrom c oxidase , trong 
+khi hem c chủ yếu trong cytochrom c , nơi nó được liên kết cộng hóa trị với cystein của 
+protein thông qua cầu nối thioester . 
+7.2 . Coenzym chuyển nhóm chất 
+duợc cho ph ala alcohol . 
+hop , phy 
+Các nucleosid phosphat ( 1 ) không chỉ là tiền chất cho quá trình sinh tổng hợp acid 
+nucleic , chúng còn có chức năng coenzym . Chúng giữ vai trò dự trữ năng lượng và khi 
+giải phóng các cầu nối cao năng lượng này sẽ cung cấp năng lượng cho các quá trình 
+phản ứng có thể xảy ra . Chất chuyển hóa thường thực hiện được nhiều phản ứng ( " kích 
+hoạt " ) sau khi khử phosphat ( phosphoryl hóa ) . Liên kết với nucleosid diphosphat ( chủ 
+yếu là UDP và CDP ) cung cấp các tiền chất kích hoạt cho polysaccharid và lipid . 
+Nhóm khử acyl thường được kích hoạt bằng cách chuyển đến coenzym A ( 2 ) . 
+Coenzym A , pantethein được liên kết với 3 ' - phospho - ADP bằng cầu nối phosphoric 
+acid anhydrid . Pantethein bao gồm ba thành phần liên kết với nhau bằng cầu nối amid : 
+acid pantoic , E - alanin và cysteamin . Hai thành phần sau là các amin được tổng hợp bởi 
+decarboxy hóa aspartat và cystein . Phức hợp được hình thành từ acid pantoic và B - alanin 
+acid pantothenic ) có đặc điểm như vitamin cho con người . Phản ứng giữa nhóm thiol 
+của cysteamin và acid cacboxylic sinh ra thioester như acetyl - CoA . Phản ứng này là thu 
+nhiệt mạnh mẽ nên nó phải được xảy ra cùng với quá trình tỏa nhiệt . Thioester đại diện 
+cho các thế hoạt động của acid cacboxylic , bởi vì chất khử acyl có một tiềm năng hóa 
+173

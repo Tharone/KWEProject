@@ -1,0 +1,32 @@
+như thuốc thử để xác định nồng độ chất chuyển hóa , ví dụ đo đường huyết trong máu . 
+Hầu hết các kỹ thuật định lượng enzym sử dụng phương pháp quang phổ . 
+6.1 . Nguyên tắc đo quang 
+Nhiều chất hấp thụ ánh sáng trong vùng nhìn thấy được hoặc vùng tử ngoại của 
+quang phổ . Tính chất này có thể được sử dụng để xác định nồng độ của một chất . Mức 
+độ hấp thụ ánh sáng phụ thuộc vào loại và nồng độ của chất và chiều dài sóng của ánh 
+sáng được sử dụng . Ánh sáng đơn sắc ( ánh sáng với bước sóng xác định được lọc ra từ ánh sáng trắng sử dụng một bộ lọc đơn sắc ) với cường độ lo được chiếu qua một vật chứa hình chữ nhật được làm bằng thủy tinh hoặc thạch anh ( cuvet ) , chứa dung dịch của chất cần đo . Mức hấp thu của dung dịch được xác định bằng cách lấy logarit cơ 
+của thương số I / Io . Định luật Beer - Lambert quy định rằng A là tỷ lệ thuận với nồng độ 
+C chất hấp thụ và d độ dày của các dung dịch nó đi qua . Như đã trình bày trước đó , hệ 
+số hấp thụ E phụ thuộc vào loại cơ chất và bước sóng sử dụng . 
+6.2 . Đo hoạt tính của lactat dehydrogenase in th số 10 
+Định lượng lactate dehydrogenase ( LDH ) có lợi thế khi mức giảm coenzym NADH H 
+hấp thụ ánh sáng ở bước sóng 340 nm , trong khi thể oxy hóa NAD * thì không . Mức hấp thụ 
+ánh sáng ( đường biểu diễn của A so với bước sóng ) cho các chất nền và coenzym của phản 
+ứng LDH được hiển thị trong Hình 7.10 . Sự khác nhau trong sự hấp thu ánh sáng giữa 
+NAD + và NADH ( 300 nm và 400 nm ) do những thay đổi trong vòng nicotinamid trong quá 
+trình oxy hóa . Để đo hoạt tính của LDH , một cuvet chứa dung dịch gồm lactat và NAD , 
+mức hấp thụ được ghi nhận liên tục ở bước sóng 340 nm . Phản ứng LDH không được xúc 
+tác diễn ra rất chậm . Chỉ khi bổ sung enzym , số lượng NADH được hình thành và tăng hấp 
+thu . Theo định luật Beer - Lambert , tỷ lệ gia tăng hấp thu AA / At tỷ lệ thuận với tốc độ phản 
+ứng Ac / At . Hệ số hấp thụ tại bước sóng 340 nm hoặc phương pháp so sánh với một dung 
+dịch chuẩn có thể được sử dụng để tính toán hoạt tính LDH FM 
+6.3 . Định lượng glucose bằng phương pháp enzym 
+Một số khó khăn khi sử dụng phương pháp đo quang là hầu hết các phân tử sinh 
+học không hấp thụ ánh sáng trong quang phổ nhìn thấy được hoặc tia cực tím . Ngoài ra , 
+chúng thường kết hợp với các chất khác thành các dạng phức hợp trong quá trình phản 
+ứng hóa học . Hai vấn đề này có thể được giải quyết bằng cách sử dụng một loại enzym 
+thích hợp để biến chất cần đo thành một loại thuốc nhuộm màu chọn lọc . Sau đó , có thể 
+được đo sự hấp thụ của thuốc nhuộm . 
+Một quy trình ( 1 ) thường được sử dụng để đo glucose khi theo dõi lượng đường trong 
+máu liên quan đến hai phản ứng liên tiếp . Enzym phân hủy glucose được sử dụng ở đây là 
+169
