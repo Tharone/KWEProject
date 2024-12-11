@@ -1,6 +1,8 @@
 ﻿#Goal: Find keywords based on analysis of word frequencies
 #Main dev.: Long Thien
 
+import os
+
 def words(file_name):
     '''
     Input (string) file_name.
@@ -166,7 +168,6 @@ def advanced_search(potential):
 
 
 if __name__ == '__main__':
-    file_address = 'C:\\Users\\longt\\source\\repos\\word_frequency_analyzer\\test_data\\'
     file_name = '.txt'
 
     for n in range(1, 28):
@@ -174,8 +175,10 @@ if __name__ == '__main__':
 
         tmp = file_name
         tmp = f'T{n}' + file_name
+
+        file_address = os.path.join(os.path.dirname(__file__), 'test_data', tmp)
         
-        text = ' '.join(words(file_address + tmp))
+        text = ' '.join(words(file_address))
 
         most_rep = most_repeated(freq_analyzer(text))
         to_check = words_to_check(most_rep, link_words(most_rep))
