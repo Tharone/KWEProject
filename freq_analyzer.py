@@ -175,7 +175,6 @@ if __name__ == '__main__':
 
         tmp = file_name
         tmp = f'T{n}' + file_name
-
         file_address = os.path.join(os.path.dirname(__file__), 'test_data', tmp)
         
         text = ' '.join(words(file_address))
