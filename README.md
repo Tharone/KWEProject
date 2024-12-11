@@ -15,3 +15,6 @@ After the KWE has found the most repeated words, it starts to link those words t
 All words marked as valid are considered as potential keywords and are displayed in the output.
 
 For a visual description, refer to the drawn diagram 'HowItWorks.png'.
+
+# Limitations
+We acknowledge the present limitations of our tool. One of which is language restriction, since our KWE is developed to handle Vietnamese only, foreign texts (in English, German, Chinese,...) are not processed properly. We sincerely apologize if this has been inconvenient.
